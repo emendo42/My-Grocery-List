@@ -84,10 +84,11 @@ body{
     padding: .15em;
     border-radius: .25em;
     text-align: center;
+    cursor: pointer;
 }
 
 .groceryItem:hover{
     background-color: peru;
-    
+
     font-weight: bold;
 }
